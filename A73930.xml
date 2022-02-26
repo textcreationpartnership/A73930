@@ -1,0 +1,398 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of the dukes, marquesses, earles, viscounts, bishops, barons, that sit in this Parliament, begun at Westminster the 3. of November, 1640.</title>
+            <title>Most exact catalogue of the nobilitie of England, Scotland, and Ireland.</title>
+            <author>Walkley, Thomas, d. 1658?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73930</idno>
+            <idno type="STC">STC 7746.9</idno>
+            <idno type="STC">Thomason E1091_1</idno>
+            <idno type="STC">ESTC R212265</idno>
+            <idno type="EEBO-CITATION">99870903</idno>
+            <idno type="PROQUEST">99870903</idno>
+            <idno type="VID">169385</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73930)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169385)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 162:E1091[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of the dukes, marquesses, earles, viscounts, bishops, barons, that sit in this Parliament, begun at Westminster the 3. of November, 1640.</title>
+                  <title>Most exact catalogue of the nobilitie of England, Scotland, and Ireland.</title>
+                  <author>Walkley, Thomas, d. 1658?</author>
+               </titleStmt>
+               <extent>[2], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho: Walkley, and are to be sold at his shop, at the signe of the flying Horse, betweene Brittains Bursse, and Yorke House,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Compiled by Thomas Walkley.</note>
+                  <note>An updated edition of: A most exact catalogue of the nobilitie of England, Scotland, and Ireland.</note>
+                  <note>Signatures: A [-A1].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Lords --  Registers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169385:1"/>
+            <p>A CATALOGVE OF THE DVKES, MAR<g ref="char:EOLhyphen"/>queſſes, Earles, Viſcounts, Biſhops, Barons, that ſit in this <hi>Parliament,</hi>
+            </p>
+            <p>BEGVN AT WESTMINSTER the 3. of <hi>November,</hi> 1640.</p>
+            <p>LONDON, Printed for <hi>Tho: Walkley,</hi> and are to be ſold at his Shop, at the ſigne of the flying Horſe, betweene Brittains Burſſe, and <hi>Yorke</hi> Houſe. 1640.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_Members_of_Parliament">
+            <pb facs="tcp:169385:2"/>
+            <pb n="1" facs="tcp:169385:2"/>
+            <head>A CATALOGVE OF THE DVKES, Marqueſſes, Earles, Viſcounts, Biſhops, Barons, that ſit in this PARLIAMENT.</head>
+            <list>
+               <item>GEorge Villiers, Duke, Marqueſſe, and Earle of Buckingham, and Coventry, Viſcount Villiers, Baron of Whadden, K. <hi>Iames Infra aetatem.</hi>
+               </item>
+               <item>Iohn Paulet Marqueſſe of Wincheſter, Earle of Wiltſhire<g ref="char:punc">▪</g> Baron St. Iohn of Baſing. Created Mar<g ref="char:EOLhyphen"/>queſſe of Wincheſter, in <hi>Anno quinto,</hi> Edward 6.</item>
+               <item>Thomas Howard Earle of Arundell, and Surrey, priemere Earle, and Earle Marſhall of England, Ba<g ref="char:EOLhyphen"/>ron Howard, Mowbray, Segrave, Brewes, De Gower, Fitz-Alan, Clun. Oſwaldeſtre, Matravers, and Grayſtock, Knight of the Garter, in <hi>H.</hi> the 2. was created Earle of Arundell, Lord high Steward.</item>
+               <item>Awbery Vere, Earle of Oxford, Baron Bulbeck, Samford, Eſcales and Badleſmere, created Earle of Oxford, in <hi>H.</hi> the 2.
+<hi>Infra etatem.</hi>
+               </item>
+               <item>Algernon Percy, Earle of Northumberland Ba<g ref="char:EOLhyphen"/>ron Percy, Lucy Poynings, Fitz-paine, and Brion Latimer, and Knight of the Garter, created Earle of Northumberland, <hi>Anno primo R.</hi> 2. Lord high Ad<g ref="char:EOLhyphen"/>mirall of England.</item>
+               <item>Iohn Talbot, Earle of Shrewesbury, Waſhford and
+<pb n="2" facs="tcp:169385:3"/>Waterford, Lord Talbot, Cominde, Badnough, Va<g ref="char:EOLhyphen"/>lence, Montchenſie, Lord Strange of Blackmere, Lord Gilford of Brimfeild, Lord Clifford of Cor<g ref="char:EOLhyphen"/>ſham, Furnivale, Verdon, and Lovetoft, created Earle of Shrewesbury in <hi>Anno</hi> 20. <hi>H.</hi>
+6.</item>
+               <item>Anthony Grey, Earle of Kent, Lord Grey of Ru<g ref="char:EOLhyphen"/>thin, Haſtings, and Weisford. <hi>Edw.</hi> 4.</item>
+               <item>William Stanley Earle of Derby, Lord Stanley, Strange of Knocking, and of the Ile of man, Knight of the Garter, created Earle of Derby, in <hi>Anno pri<g ref="char:EOLhyphen"/>mo, H.</hi> 7.</item>
+               <item>Henry Somerſet, Earle of Worceſter, Lord Her<g ref="char:EOLhyphen"/>bert of Ragland, Chepſtone, and Gower, created Earle of Worceſter in <hi>Anno</hi>
+5. <hi>H.</hi> 8.</item>
+               <item>George Manners, Earle of Rutland, Lord Ros of Hamlake, Belvoir, and Trusbut, created Earle of Rutland, in <hi>Anno</hi> 17.
+<hi>H.</hi> 8.</item>
+               <item>Francis Cliford, Earle of Cumberland, Lord Cli<g ref="char:EOLhyphen"/>ford of Sckipton, Weſtmerland, Bromſlet, Vipont, and Veſey, created Earle of Cumberland, in <hi>Anno</hi> 17, <hi>H.</hi> 8.</item>
+               <item>Edward Radcliffe, Earle of Suſſex, Viſcount Fitz<g ref="char:EOLhyphen"/>water, Lord Egremont and Burnell, created Earle of Suſſex, <hi>H.</hi>
+8.</item>
+               <item>Henry Haſtings, Earle of Huntington, Baron Ha<g ref="char:EOLhyphen"/>ſtings, Hunger-ford, Homet, Botreaulx, Mulis, Mo<g ref="char:EOLhyphen"/>lins, and Peverell, creared Earle of Huntington, in <hi>Anno</hi> 21. <hi>H.</hi> 8.</item>
+               <item>Henry Bourchier, Earle of Bath, and Lord Fitz<g ref="char:EOLhyphen"/>waren, created in the 28. yeare of <hi>H.</hi> 8. Earle of Bath.</item>
+               <item>Thomas Wriotheſley, Earle of South-hampton, and Baron Wriotheſley of Tich-field, created <hi>primo<g ref="char:EOLunhyphen"/>ted Edward.</hi> 6.</item>
+               <pb n="3" facs="tcp:169385:3"/>
+               <item>Francis Ruſſell, Earle of Bedford, Lord Ruſſell of Taveſtock, and Lord Ruſſell of Thornough, created Earle of Bedford,
+<hi>Anno primo, Ed.</hi> 6.</item>
+               <item>Philip Herbert, Earle of Pembroke and Montgo<g ref="char:EOLhyphen"/>mery, Baron Herbert of Cardiffe and Shirland, Lord Parre, and Roos of Kendall, Lord Fizhue, Marmion, and St. Quinton, Lord Chamberlaine of his Maje<g ref="char:EOLhyphen"/>ſties Houſhold, and Knight of the Garter, created Earle of Pembroke, in <hi>Anno quinto Ed.</hi>
+6.</item>
+               <item>William Seymour, Earle of Hertford, Viſcount Beauchamp, and Baron Seymour, created Earle o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Hartford, <hi>Anno</hi> 29. <hi>H.</hi> 8. <hi>et primo Eliza.</hi>
+               </item>
+               <item>Robert Deveroux, Earle of Eſſex, and Ewe, Viſ<g ref="char:EOLhyphen"/>count Hereford, Lord Ferrers of Chartley, Bour<g ref="char:EOLhyphen"/>chier and Lovaine, created Earle of Eſſex, <hi>Anno</hi> 14. <hi>Eliza.</hi>
+               </item>
+               <item>Theophilus Fyne, Earle of Lincolne, and Lord Clinton, created Earle of Lincolne, 14. <hi>Eliza.</hi>
+               </item>
+               <item>Charles Howard, Earle of Notingham, and Lord Howard of Effingham, created Earle of Noting<g ref="char:EOLhyphen"/>ham, in 39. <hi>Eliza.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Earles made ſince the firſt of King.
+<hi>IAMES.</hi>
+               </head>
+               <item>Iames Howard, Earle of Suffolke, Lord Howard of Walden.</item>
+               <item>Edward Sacvile, Earle of Dorſet, and Ba<g ref="char:EOLhyphen"/>ron Buckhurſt, Knight of the Garter, and Lord Chamberlaine to the Queenes Majeſty.</item>
+               <item>William Cecill, Earle of Salisbury, Viſcount Cramborne, and Baron Cecill of Eſſinden, Knight of the Garter.</item>
+               <item>David Gecill Earle of Exeter, Baron Burley.</item>
+               <item>Robert Carre Earle of Somerſet, Viſcount Ro<g ref="char:EOLhyphen"/>cheſter,
+<pb n="4" facs="tcp:169385:4"/>and Baron of Branſpath, Knight of the Gar.</item>
+               <item>Iohn Egerton, Earle of Bridgwater, Viſcount Brackley, and Baron Elleſmere, Lord Preſident of Whales.</item>
+               <item>Robert Sidney, Earle of Leiceſter, Viſcount Liſle, Baron Sidney of Ponſhurſt.</item>
+               <item>Spencer Compton Earle of Northampton, Baron Compton of Compton.</item>
+               <item>Robert Rich Earle of Warwicke, and Lord Rich of Leeze.</item>
+               <item>William Cavendiſh, Earle of Devonſhire, and Baron Cavendiſh of Hardwick.</item>
+               <item>Iames Hamilton Earle of Cambridge, Maſter of the Horſe to his Majeſty, Knight of the Garter.</item>
+               <item>Iames Stuart Earle of March, Baron of Leighton, Knight of the Garter.</item>
+               <item>Iames Hay, Earle of Carlile, Viſcount Doncaſter, Lord Hay of Sanley</item>
+               <item>William Fielding Earle of Denbigh, Viſcount Fielding, and Baron of Newnhampadox.</item>
+               <item>Iohn Digby Earle of Briſtoll, and Baron Digby of Shirborne.</item>
+               <item>Lionell Cranfield Earle of Middleſex, and Baron Cranfield of Cranfield.</item>
+               <item>Charles Villiers Earle of Angleſey, Lord Daven<g ref="char:EOLhyphen"/>try,
+<hi>Infra aetatem.</hi>
+               </item>
+               <item>Henry Rich Earle of Holland, Baron Kenſington, of Kenſington, and Knight of the Garter.</item>
+               <item>Iohn Hollis, Earle of Clare, Lord Houghton of Houghton.</item>
+               <item>Oliver St. Iohn, Earle of Bullingbrooke, Lord St. Iohn of Bletſo.</item>
+               <item>Mildmay Fane Earle of Weſtmerland, Lord le De Spencer and Burghwaſh.</item>
+            </list>
+            <pb n="5" facs="tcp:169385:4"/>
+            <list>
+               <head>Earles made ſince the firſt of King
+<hi>CHARLES.</hi>
+               </head>
+               <item>Henry Montague Earle of Mancheſter, Viſcount Mandevile, and Kymbolton, Lord Privy Seale.</item>
+               <item>Thomas Howard Earle of Barkſhire, Viſcount Andover, and Lord Charleton, Knight of the Garter.</item>
+               <item>Thomas Wentworth Earle of Cleveland, Lord Wentworth of Nettleſted.</item>
+               <item>Edmond Sheffield, Earle of Mulgrave, Lord Shef<g ref="char:EOLhyphen"/>field of Butterwike, and Knight of the Garter.</item>
+               <item>Henry Danvers, Earle of Danby, Lord Danvers of Dantſey, Knight of the Garter.</item>
+               <item>Robert Cary, Earle of Monmouth, Lord Cary of Lepington.</item>
+               <item>Iames Ley Earle of Marleburgh, and Lord Ley of Ley.</item>
+               <item>Iohn Savage, Earle of Rivers, Viſcount Colcheſter, and Rock Savage, and Lord Darcy of Chich.</item>
+               <item>Robert Bartu Earle of Lindſey, and Lord Wil<g ref="char:EOLhyphen"/>loughby, Beake and Eresby, Lord great, Chamber<g ref="char:EOLhyphen"/>laine Knight of the Garter.</item>
+               <item>William Cavendiſh Earle of New-caſtle, Viſ<g ref="char:EOLhyphen"/>count Mansfield, Lord Boulfover and Ogle.</item>
+               <item>Henry Cary, Earle of Dover, Viſcount Rochford, and Lord Hunsdon.</item>
+               <item>Iohn Mordant, Earle of Peterborough, Lord Mor<g ref="char:EOLhyphen"/>dant of Turvey.</item>
+               <item>Henry Gray, Earle of Stanford, Lord Gray of Groby.</item>
+               <item>Heneage Finch, Earle of Winchelſey, and Viſ<g ref="char:EOLhyphen"/>count Maidſtone. <hi>Infra aetatem.</hi>
+               </item>
+               <item>Robert Perpoint, Earle of Kingſton upon Hull.</item>
+               <pb n="6" facs="tcp:169385:5"/>
+               <item>Viſcount Newarke upon Trent, and Lord Per<g ref="char:EOLhyphen"/>point of Holmes Perpoint.</item>
+               <item>Robert Dormere, Earle of Carnarvan, Viſcount Aſcot, and Lord Dormere of Wing.</item>
+               <item>Mount Ioy Blunt, Earle of Newport, Lord Mount-Ioy of Thurveſton</item>
+               <item>Philip Stanhop, Earle of Cheſterfield, and Lord Stanhop of Shelford.</item>
+               <item>Iohn Tufton Earle of the Ile of Thanet, and Lord Tufton of Tufton.</item>
+               <item>Vlicke de Burgh Earle of Saint Albans, Viſcount Tunbridge, and Baron of Somerhill.</item>
+               <item>Ierome Weſton, Earle of Portland, Lord Weſton of Neyland.</item>
+               <item>Thomas Wentworth, Earle of Strafford, Viſcount Wentworth, Baron Wentworth of Wentworth Wood-houſe, New March and Overſley, Raby, Lord Lievtenant of the Realme of Ireland.</item>
+            </list>
+            <list>
+               <head>Viſcounts.</head>
+               <item>Francis Browne, Viſcount Montague of Cow<g ref="char:EOLhyphen"/>drey.</item>
+            </list>
+            <list>
+               <head>Viſcounts made by King <hi>IAMES.</hi>
+               </head>
+               <item>Iohn Villiers Viſcount Purbecke, Lord of Stoke<g ref="char:EOLhyphen"/>poges,</item>
+               <item>William Fines Viſcount Sey and Seale, Lord Sey and Seale.</item>
+            </list>
+            <list>
+               <head>Viſcounts made by King <hi>CHARLES.</hi>
+               </head>
+               <item>Edward Conway, Viſcount Conway, and Killul<g ref="char:EOLhyphen"/>tagh, and Baron Conway of Ragley.</item>
+               <pb n="7" facs="tcp:169385:5"/>
+               <item>Edward Noell Viſcount Camden, and Baron Noell of Ridlington.</item>
+               <item>William Howard Viſcount and Baron Stafford.</item>
+            </list>
+            <list>
+               <head>Biſhops.</head>
+               <item>WIlliam Laude Archbiſhop of Canterbury his grace.</item>
+               <item>Archbiwop of Yorke his Grace.</item>
+               <item>William Iuxon Biſhop of London and Lord high Treaſurer of England.</item>
+               <item>Thomas Morton Biſhop of Durham.</item>
+               <item>Walter Curle Biſhop of Wincheſter.</item>
+               <item>Iohn Thornburgh Biſhop of Worceſter.</item>
+               <item>Iohn Bridgeman Biſhop of Cheſter.</item>
+               <item>Iohn Williams Biſhop of Lincolne.</item>
+               <item>Iohn Davenant Biſhop of Salisbury.</item>
+               <item>Robert Wright Biſhop of Coventry and Lichfield.</item>
+               <item>Godfrey Goodman Biſhop of Gloceſter.</item>
+               <item>Ioſeph Hall Biſhop of Exceter.</item>
+               <item>Richard Montagu Biſhop of Norwich.</item>
+               <item>Barnabas Potter Biſhop of Carlile.</item>
+               <item>Iohn Owen of Saint Afaph.</item>
+               <item>William Peirce Biſhop of Bath and Wells.</item>
+               <item>Iohn Bancroft Biſhop of Oxford.</item>
+               <item>George Coke Biſhop of Hereford.</item>
+               <item>Matthew Wren Biſhop of Ely, Deane of his Ma<g ref="char:EOLhyphen"/>jeſties Chappell Royall.</item>
+               <item>Roger Manwaring Biſh. of S. Davids had no writ.</item>
+               <item>Robert Skinner Biſhop of Briſtow.</item>
+               <item>William Roberts Biſhop of Bangor.</item>
+               <item>Iohn Warner Biſhop of Rocheſter.</item>
+               <item>Brian Duppa Biſhop of Chicheſter.</item>
+               <item>Iohn Towers Biſhop of Peterborough.</item>
+               <item>Morgan Owen Biſhop of Landaffe.</item>
+            </list>
+            <pb n="8" facs="tcp:169385:6"/>
+            <list>
+               <head>Barons.</head>
+               <item>Henry Howard, Lord Mowbray, Eldeſt ſonne of Thomas Earle of Arundell and Surrey Multravers.</item>
+               <item>Henry Clifford, Lord Clifford, only Son of Francis Earle of Cumberland.</item>
+               <item>Henry Nevill, Lord Abergavenny, <hi>Ric.</hi> 2.</item>
+               <item>Iames Touchet Lord Awdeley of Highleigh, <hi>Ed</hi>
+1.</item>
+               <item>Iames Stanley, Lord ſtrange, eldeſt ſon of William Earle of Derby.</item>
+               <item>Charles Weſt, Lord Delaware, <hi>infra aetatem. Ed.</hi>
+1.</item>
+               <item>Mountague Bartu. Lord of Eresby, eldeſt ſonne of Robert Earle of Lindſey. <hi>Ed.</hi> 2.</item>
+               <item>George Barkley, Lord Barkley of Barkley Caſtle.
+<hi>Hen.</hi> 5.</item>
+               <item>Henry Parker, Lord Morley and Montegle, <hi>Hen.</hi>
+5.</item>
+               <item>Richard Lennard, Lord Dacres of Hurſtmonſeux.</item>
+               <item>Edward Sutton, Lord Dudley of Dudley Caſtle.
+<hi>Hen.</hi> 6.</item>
+               <item>Edward Stourton, Lord Stourton of Stourton.</item>
+               <item>Ferdinando Lord Haſtings, e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>deſt ſonne of Henry Earle of Huntington. 4.
+<hi>Edw.</hi> the 4.</item>
+               <item>Edward Vaux, Lord Vaux of Harrowden. <hi>H.</hi> 6.</item>
+               <item>Thomas Windſor, L. Windſor of Stanwell. <hi>Hen.</hi>
+8.</item>
+               <item>Thomas Lord Wentworth of Nettleſted, <hi>Hen.</hi> 8. onely ſon of Thomas Earle of Cleveland.</item>
+               <item>Thomas Cromwell, Lord Cromwell of Ockham. <hi>Hen.</hi>
+8.</item>
+               <item>William Eure, Lord Eure of Whitton. <hi>Hen.</hi> 8.</item>
+               <item>Philip wharton, L. Wharton of Wharton, <hi>H.</hi>
+8.</item>
+               <item>William Willoughby, Lord Willoughby of Parham. <hi>Ed.</hi>
+6.</item>
+               <item>William Paget, Lord Paget of Beaudeſert. <hi>Ed.</hi>
+6.</item>
+               <pb n="9" facs="tcp:169385:6"/>
+               <item>Dudley North, Lord North of Carthlagel. <hi>Q. M.</hi>
+               </item>
+               <item>George Brudges, Lord Shandoes of Sudley, <hi>Q. M.</hi>
+               </item>
+               <item>Iohn Cary, Lord Hunſdon, ſonne to Henry Cary Earle of Dover, <hi>Q. Eli.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Barons made by King <hi>IAMES.</hi>
+               </head>
+               <item>William Peter, Lord Peter of Writtell, <hi>Infra aetatem.</hi>
+               </item>
+               <item>Dutton Gerard, Lord Gerard of Gerards Bromley. <hi>Infra aetatem.</hi>
+               </item>
+               <item>William Spencer, Lord Spencer of Wormleighton. <hi>Infra aetatem.</hi>
+               </item>
+               <item>Charles Stanhop, Lord Stanhop of Harrington.</item>
+               <item>Thomas Arundell, Lord Arundell of Wardour.</item>
+               <item>Chriſtopher Roper, Lord Tenham of Tenham, <hi>Infra aetatem.</hi>
+               </item>
+               <item>Edward Montague, Lord of Kimbolont, eldeſt ſon of Henry Earle of Mancheſter.</item>
+               <item>Baſil Fielding, L. of Newnham Paddocks, eldeſt ſon of William Earle of Denbigh.</item>
+               <item>Robert Grevill, Lord brooke of Beaucham-Court.</item>
+               <item>Edward Montague, Lord Montague of Boughton.</item>
+               <item>Charles Howard, Lord Howard of Charlton.</item>
+               <item>William Gray, Lord Gray of Warke.</item>
+               <item>Francis Leake, Lord Danecourt of Sutton.</item>
+               <item>Iohn Roberts, Lord Roberts of Truro.</item>
+            </list>
+            <list>
+               <head>Barons made by King <hi>CHARLES.</hi>
+               </head>
+               <item>William Craven, Lord Craven of Hamſteed Marſhall.</item>
+               <item>Thomas Bellaſiſe, Lord Fauconberge of Yarom.</item>
+               <item>Iohn Lovelace, Lord Lovelace of Hurley.</item>
+               <item>Iohn Pawlet, Lord Pawlet of Hinton St. George.</item>
+               <item>William Harvey, Lord Harvey of Kidbrooke.</item>
+               <pb n="10" facs="tcp:169385:7"/>
+               <item>Thomas Brudenell, Lord Brudenell of Stanton.</item>
+               <item>William Maynard, Lord Maynard of Eſtaynes.</item>
+               <item>Thomas Coventry, Lord Coventry of Alesbo<g ref="char:EOLhyphen"/>rough.</item>
+               <item>Edward Howard, Lord Howard of Eſtcrick.</item>
+               <item>George Goring Lord Goring of Huſtperpoint.</item>
+               <item>Iohn Mohun, Lord Mohun of Okehampton.</item>
+               <item>Thomas Savill, Lord Savill of Pomfret.</item>
+               <item>Iohn Butler, Lord Butler of Bramfield.</item>
+               <item>Francis Leigh; Lord Dunſmore.</item>
+               <item>William Herbert, Lord Powys of Powys.</item>
+               <item>Edward Herbert, Lord Herbert of Chierbury.</item>
+               <item>Francis Contington, Lord Cottington of Han<g ref="char:EOLhyphen"/>worth, Maſter of the Court of Wards, and Chancel<g ref="char:EOLhyphen"/>lour of the Exchequer.</item>
+               <item>Iohn Finch; Lord Finch, Baron of Fordwich Lord Keeper of the great Seale of England.</item>
+            </list>
+            <list>
+               <head>Some Lords as privie Councellors and not Peares of this Kingdome called thither for their aſſiſtance ſit upon Woll-ſackes.</head>
+               <item>Richard Boyle Earle of Corke, of his Majeſties Pri<g ref="char:EOLhyphen"/>vie Counſell.</item>
+               <item>Charles Wilmot, Viſcount Wilmot of Athlone, of his Majeſties Privie Counſell.</item>
+               <item>Edward Barret, Lord Newburge Chancelor of the Duchy of Lancaſter, and of his Majeſties Privy Coun<g ref="char:EOLhyphen"/>ſell.</item>
+               <item>The Kings Learned Iudges.</item>
+               <item>The Maſter of the Rowles.</item>
+               <item>The foure Maſters of the Chancery, their atten<g ref="char:EOLhyphen"/>ding according to the Direction of the Lo. Keeper of the great Seale of England.</item>
+               <pb n="11" facs="tcp:169385:7"/>
+               <item>The Kings learned Councell.</item>
+               <item>His Serjants at Law.</item>
+               <item>His Atturney Generall.</item>
+            </list>
+            <list>
+               <head>The Officers of the higher Houſe of Parliament.</head>
+               <item>The Clarke of the Crowne of Chanceri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</item>
+               <item>The Clarke of the Parliament.</item>
+               <item>The Vſher.</item>
+               <item>The Yeoman Vſher.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
